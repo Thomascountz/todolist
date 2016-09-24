@@ -13,13 +13,12 @@ A simple todo list webapp using html, css, and jQuery.
 
 [TO REORDER TASKS] This feature is not currently available
 
+[VERSION HISTORY]
+v.0.1 - CURRENT VERSION
+
 [PROJECT HISTORY]
-This project was inspired by Codecadamey's jQuery course which I worked through as part of The Odin Project's curriculum. 
+This project was inspired by Codecadamey's jQuery course which I worked through as part of The Odin Project's curriculum. This app was originally sandboxed at [CodePen](http://codepen.io/).
 
 [Pen](http://codepen.io/Thomascountz/pen/rryJoE)
 
-Thomas Countz](http://codepen.io/Thomascountz)
-
-[CodePen](http://codepen.io/).
-
-[License](http://codepen.io/Thomascountz/pen/rryJoE/license).
+[Thomas Countz](http://codepen.io/Thomascountz)
