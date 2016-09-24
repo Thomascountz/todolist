@@ -1,0 +1,94 @@
+body {
+    font-family: 'Fjalla One', sans-serif; /*default font (Google font 'Trirong')*/
+  color: #3D3D3D; /*default font color*/
+  background: grey;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+h1 {
+  margin: 20px auto 5px auto;
+  text-align: center;
+  background-color: #3185FC;
+  width: 500px;
+  line-height: 80px;
+  letter-spacing: 25px;
+}
+
+#background {
+  margin: 0 auto;
+  background-color: #593F62;
+  height: auto;
+  width: 500px;
+  padding: 15px;
+  
+}
+#form-container{
+  text-align: center;
+}
+#to-do-form {
+  display: inline-block;
+}
+
+#textbox {
+  width: 210px;
+  height: 30px;
+  font-size: 18px;
+  color: #3D3D3D;
+  background: silver;
+  border: 1px solid black;
+  padding: 0 15px;
+}
+
+#button {
+  display: inline-block;
+  height: 30px;
+  font-size: 18px;
+  width: 60px;
+  background-color: grey;
+  text-align: center;
+  line-height: 30px;
+}
+
+#button:hover {
+  background-color: #297045;
+  cursor: pointer;
+}
+
+#list {
+}
+
+.item {
+  display: block;
+  width: 280px;
+  height: 30px;
+  background: #297045;
+  border: 1px solid black;
+  margin: 2px auto;
+  text-transform: capitalize;
+  line-height: 30px;
+  font-size: 18px;
+  padding: 0 15px;
+}
+
+.item-delete {
+  display: block;
+  width: 280px;
+  height: 30px;
+  background: #CC2435;
+  border: 1px solid black;
+  margin: 2px auto;
+  text-transform: capitalize;
+  line-height: 30px;
+  font-size: 18px;
+  padding: 0 15px;
+}
+
+.item:hover {
+  cursor: pointer;
+}
+
+.item-delete:hover {
+  cursor: pointer;
+}
